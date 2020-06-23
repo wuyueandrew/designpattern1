@@ -16,3 +16,4 @@ target
 build
 logs
 .DS_Store
+.gradle
